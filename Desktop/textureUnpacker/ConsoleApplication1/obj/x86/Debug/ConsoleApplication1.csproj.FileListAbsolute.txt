@@ -1,0 +1,5 @@
+C:\WorkSpace\fileCutter\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\WorkSpace\fileCutter\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\WorkSpace\fileCutter\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\WorkSpace\fileCutter\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\WorkSpace\fileCutter\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

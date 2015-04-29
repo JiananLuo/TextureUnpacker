@@ -1,0 +1,10 @@
+C:\WorkSpace\fileCutter\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\WorkSpace\fileCutter\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\WorkSpace\fileCutter\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\WorkSpace\fileCutter\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\WorkSpace\fileCutter\WindowsFormsApplication1\bin\Release\TextureUnpacker.exe
+C:\WorkSpace\fileCutter\WindowsFormsApplication1\bin\Release\TextureUnpacker.pdb
+C:\WorkSpace\fileCutter\WindowsFormsApplication1\obj\x86\Release\TextureUnpacker.exe
+C:\WorkSpace\fileCutter\WindowsFormsApplication1\obj\x86\Release\TextureUnpacker.pdb
+C:\Users\mluo\Desktop\fileCutter\WindowsFormsApplication1\obj\x86\Release\TextureUnpacker.exe
+C:\Users\mluo\Desktop\fileCutter\WindowsFormsApplication1\obj\x86\Release\TextureUnpacker.pdb
